@@ -60,7 +60,7 @@ In a basic grid system, rotating a piece next to a wall often fails because the 
 ### Running from Source
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Sestro-Dev/Tetris-Godot.git](https://github.com/Sestro-Dev/Tetris-Godot.git](https://github.com/azizul987/Tetris.git
+   git clone https://github.com/azizul987/Tetris.git
    ```
 
 2. **Open in Godot:**
